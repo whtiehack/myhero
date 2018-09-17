@@ -1,0 +1,22 @@
+{
+  "name": "myhero",
+  "description": "myhero",
+  "keywords": ["myhero"],
+  "env": {
+    "VER": {
+       "description": "VER",
+       "value": "3.41"
+     }, 
+    "UUID": {
+       "description": "uuid",
+       "value": "a2b887cc-ff10-461d-9d5b-56e3d99a8b63"
+     },
+    "V2RAY_RAY_BUFFER_SIZE": {
+       "description": "每个连接的缓存大小，单位MB",
+       "value": "10"
+     }
+  },
+  "website": "https://github.com/whtiehack/myhero",
+  "repository": "https://github.com/whtiehack/myhero",
+  "stack": "container"
+ }
